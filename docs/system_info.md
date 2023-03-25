@@ -15,11 +15,8 @@
     ```
     　・Microsoft Azure
     　・Google cloud Platform
-    　・Amazon Web Service
     　・DeepL Translator
-    　・IBM Cloud(Watson)
     　・NAVER Cloud platform
-    　・Sakura internet
     ```
 
 * ユーザは上記サービスに反しない利用をすることを了承し、ユーザの過失によりプログラム提供側に不利益・被害が発生する場合には、使用を中止するとともに、使用者が当該部分における損害賠償を行うことに合意したとみなします。
