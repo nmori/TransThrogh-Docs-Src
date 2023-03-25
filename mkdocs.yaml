@@ -1,7 +1,7 @@
 site_name: トランスルー｜翻訳支援サーバ
 site_description: 翻訳支援サーバ「トランスル－」のドキュメントページです
 site_author: nao
-copyright: Copyright &copy; 2020 -  N,Mori/*nao*
+copyright: Copyright &copy; 2023 -  N,Mori/*nao*
 theme:
   name: material
   language: ja
@@ -21,22 +21,22 @@ theme:
     text: BIZ UDPGothic
   palette:
     - media: "(prefers-color-scheme)"
-      primary: blue
-      accent: blue
+      primary: teal
+      accent: teal
       toggle:
         icon: material/brightness-auto
         name: ライトモードに切り替えます。
     - media: "(prefers-color-scheme: light)"
-      primary: blue
-      accent: blue
+      primary: teal
+      accent: teal
       scheme: default      
       toggle:
           #icon: material/toggle-switch-off-outline
           icon: material/brightness-7 
           name: ダークモードに切り替えます。
     - media: "(prefers-color-scheme: dark)"            
-      primary: blue
-      accent: blue
+      primary: teal
+      accent: teal
       scheme: slate
       toggle:
           #icon: material/toggle-switch
@@ -47,7 +47,7 @@ extra:
     language: 'ja'
   analytics:
     provider: google
-    property: G-8VEJJC6B3D
+    property: G-ZKE9XRJLM3
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/yncneo
@@ -95,4 +95,10 @@ plugins:
 nav:
     - トランスル―▼:
       - TOP: 'index.md'
-
+      - ダウンロード: 'https://booth.pm/ja/items/3717988'
+    - ドキュメント▼:
+      - インストール : 'install.md'      
+      - エンジンの設定 : 'config.md'      
+      - GASの設定 : 'gas.md'      
+      - わんコメ向け設定 : 'onecomme.md'      
+      - 技術者向け:    'api.md'
