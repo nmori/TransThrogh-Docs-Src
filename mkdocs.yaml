@@ -96,6 +96,7 @@ nav:
     - トランスル―▼:
       - TOP: 'index.md'
       - ダウンロード: 'https://booth.pm/ja/items/3717988'
+      - 利用規約: 'system_info.md'
     - ドキュメント▼:
       - インストール : 'install.md'      
       - エンジンの設定 : 'config.md'      
